@@ -13,3 +13,6 @@ Next Go to the UNDERTALE folder
 
 Then you wanna open the downloaded folder and put in the undertale.ini and file0 of the selected folder and replace the ones already there.
 Done!
+
+
+Please note this list is far from complete.
